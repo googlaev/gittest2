@@ -23,7 +23,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("ввод букв вместо цифр");
             }
-            
+            Console.WriteLine("66666666666666666666ыы");
         }   
     }
 }
